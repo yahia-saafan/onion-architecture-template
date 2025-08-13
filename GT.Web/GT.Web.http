@@ -1,0 +1,6 @@
+@GT.Web_HostAddress = http://localhost:5037
+
+GET {{GT.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
